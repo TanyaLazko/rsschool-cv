@@ -14,7 +14,7 @@
 To become a highly qualified Front-end Developer and make an important contribution to achieving your company's goals.
 
 **Language Skills**
-Level of written and spoken English: B2 (Upper - Intermediate)
+Level of written and spoken English: B2 (Upper - Intermediate)("English company" certificate 2014)
 
 **Technical Skills**
 + HTML basics
