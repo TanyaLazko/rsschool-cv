@@ -1,5 +1,5 @@
 
-### Tatsiana Bas (Lazko) ###
+###Tatsiana Bas (Lazko)###
 ### Junior Front-end developer (treinee)###
 
 
