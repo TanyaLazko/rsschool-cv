@@ -1,6 +1,6 @@
 
 ### Tatsiana Bas (Lazko) ###
-### Junior Front-end developer (treinee) ###
+### Junior Front-end developer (trainee) ###
 
 
 **Address:**	65-91 Kozhara str.,246000 Gomel, Belarus
